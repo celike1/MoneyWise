@@ -1,0 +1,12 @@
+{
+  "expenses": [
+    {
+      "name": "milk",
+      "amount": 3
+    },
+    {
+      "name": "bread",
+      "amount": 2
+    }
+  ]
+}
